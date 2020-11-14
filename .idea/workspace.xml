@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb2e2b29-2412-4fb2-8fbd-83c7b19d99d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/Components/Player/PlayerForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/Components/Player/PlayerList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/Components/Player/PlayerSingle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerSingle.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerSingle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JTH31\Desktop\Personal Projects\Soccer\frontend\public" />
       <recent name="C:\Users\JTH31\Desktop\Personal Projects\Soccer\frontend\src\Tests" />
       <recent name="C:\Users\JTH31\Desktop\Personal Projects\Soccer\frontend\src\Components" />
     </key>
@@ -65,18 +55,21 @@
       <option name="presentableId" value="Default" />
       <updated>1605346227212</updated>
       <workItem from="1605346229209" duration="6000" />
-      <workItem from="1605346239674" duration="4038000" />
+      <workItem from="1605346239674" duration="4992000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="268" key="CommitChangelistDialog2" timestamp="1605347888323">
+    <state x="905" y="268" key="CommitChangelistDialog2" timestamp="1605350526045">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="268" key="CommitChangelistDialog2/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1605347888323" />
+    <state x="905" y="268" key="CommitChangelistDialog2/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1605350526045" />
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1605348048158">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
