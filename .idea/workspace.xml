@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb2e2b29-2412-4fb2-8fbd-83c7b19d99d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerSingle.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerSingle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Player/PlayerForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605346227212</updated>
       <workItem from="1605346229209" duration="6000" />
-      <workItem from="1605346239674" duration="4992000" />
+      <workItem from="1605346239674" duration="6046000" />
     </task>
     <servers />
   </component>
